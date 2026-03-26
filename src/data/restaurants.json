@@ -1,0 +1,6 @@
+[
+  { "id": 101, "name": "Tiệm Gà Rán Vui Vẻ", "dishes_list": "[1, 2]" },
+  { "id": 102, "name": "Tiệm Đồ Mễ", "dishes_list": "[3]" },
+  { "id": 103, "name": "Quán Nướng Ngói", "dishes_list": "[4]" },
+  { "id": 104, "name": "Bếp Chay Thanh Tịnh", "dishes_list": "[5]" }
+]

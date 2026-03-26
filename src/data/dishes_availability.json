@@ -1,0 +1,9 @@
+[
+  { "item_id": 1, "meal_type": "lunch" },
+  { "item_id": 1, "meal_type": "dinner" },
+  { "item_id": 2, "meal_type": "breakfast" },
+  { "item_id": 3, "meal_type": "lunch" },
+  { "item_id": 3, "meal_type": "dinner" },
+  { "item_id": 4, "meal_type": "dinner" },
+  { "item_id": 5, "meal_type": "lunch" }
+]

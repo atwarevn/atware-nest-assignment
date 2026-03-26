@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Bánh Burger Gà", "price": 50000 },
+  { "id": 2, "name": "Bánh Muffin Trứng", "price": 35000 },
+  { "id": 3, "name": "Bánh Tacos", "price": 40000 },
+  { "id": 4, "name": "Bít Tết Bò", "price": 120000 },
+  { "id": 5, "name": "Cơm Hộp Chay", "price": 45000 }
+]
